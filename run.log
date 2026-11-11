@@ -1,0 +1,86 @@
+=== Initializing CUDA Benchmark Run ===
+Executing: Dimension=512x512, Block=8x8
+=== CUDA 2D Sobel Filter ===
+Dimensions: 512 x 512 (262144 pixels)
+Block Dim : 8 x 8
+Kernel Execution Time: 0.016832 ms
+Throughput: 31.1483 GB/s (15574.1 MPix/s)
+Saved metrics to data/metrics.csv
+Executing: Dimension=512x512, Block=16x16
+=== CUDA 2D Sobel Filter ===
+Dimensions: 512 x 512 (262144 pixels)
+Block Dim : 16 x 16
+Kernel Execution Time: 0.015616 ms
+Throughput: 33.5738 GB/s (16786.9 MPix/s)
+Saved metrics to data/metrics.csv
+Executing: Dimension=512x512, Block=32x32
+=== CUDA 2D Sobel Filter ===
+Dimensions: 512 x 512 (262144 pixels)
+Block Dim : 32 x 32
+Kernel Execution Time: 0.01648 ms
+Throughput: 31.8136 GB/s (15906.8 MPix/s)
+Saved metrics to data/metrics.csv
+Executing: Dimension=1024x1024, Block=8x8
+=== CUDA 2D Sobel Filter ===
+Dimensions: 1024 x 1024 (1048576 pixels)
+Block Dim : 8 x 8
+Kernel Execution Time: 0.024896 ms
+Throughput: 84.2365 GB/s (42118.3 MPix/s)
+Saved metrics to data/metrics.csv
+Executing: Dimension=1024x1024, Block=16x16
+=== CUDA 2D Sobel Filter ===
+Dimensions: 1024 x 1024 (1048576 pixels)
+Block Dim : 16 x 16
+Kernel Execution Time: 0.022592 ms
+Throughput: 92.8272 GB/s (46413.6 MPix/s)
+Saved metrics to data/metrics.csv
+Executing: Dimension=1024x1024, Block=32x32
+=== CUDA 2D Sobel Filter ===
+Dimensions: 1024 x 1024 (1048576 pixels)
+Block Dim : 32 x 32
+Kernel Execution Time: 0.025856 ms
+Throughput: 81.1089 GB/s (40554.5 MPix/s)
+Saved metrics to data/metrics.csv
+Executing: Dimension=2048x2048, Block=8x8
+=== CUDA 2D Sobel Filter ===
+Dimensions: 2048 x 2048 (4194304 pixels)
+Block Dim : 8 x 8
+Kernel Execution Time: 0.060992 ms
+Throughput: 137.536 GB/s (68768.1 MPix/s)
+Saved metrics to data/metrics.csv
+Executing: Dimension=2048x2048, Block=16x16
+=== CUDA 2D Sobel Filter ===
+Dimensions: 2048 x 2048 (4194304 pixels)
+Block Dim : 16 x 16
+Kernel Execution Time: 0.048448 ms
+Throughput: 173.147 GB/s (86573.3 MPix/s)
+Saved metrics to data/metrics.csv
+Executing: Dimension=2048x2048, Block=32x32
+=== CUDA 2D Sobel Filter ===
+Dimensions: 2048 x 2048 (4194304 pixels)
+Block Dim : 32 x 32
+Kernel Execution Time: 0.067072 ms
+Throughput: 125.069 GB/s (62534.4 MPix/s)
+Saved metrics to data/metrics.csv
+Executing: Dimension=4096x4096, Block=8x8
+=== CUDA 2D Sobel Filter ===
+Dimensions: 4096 x 4096 (16777216 pixels)
+Block Dim : 8 x 8
+Kernel Execution Time: 0.196928 ms
+Throughput: 170.389 GB/s (85194.7 MPix/s)
+Saved metrics to data/metrics.csv
+Executing: Dimension=4096x4096, Block=16x16
+=== CUDA 2D Sobel Filter ===
+Dimensions: 4096 x 4096 (16777216 pixels)
+Block Dim : 16 x 16
+Kernel Execution Time: 0.151584 ms
+Throughput: 221.359 GB/s (110679 MPix/s)
+Saved metrics to data/metrics.csv
+Executing: Dimension=4096x4096, Block=32x32
+=== CUDA 2D Sobel Filter ===
+Dimensions: 4096 x 4096 (16777216 pixels)
+Block Dim : 32 x 32
+Kernel Execution Time: 0.234624 ms
+Throughput: 143.014 GB/s (71506.8 MPix/s)
+Saved metrics to data/metrics.csv
+=== Benchmark Suite Finished Successfully ===
